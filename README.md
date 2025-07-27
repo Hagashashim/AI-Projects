@@ -1,3 +1,7 @@
+#Add diagrams and thoughts to the readme file
+
+#Make an application that uses LLM
+
 # AI-Projects
 
 #Folder Description
